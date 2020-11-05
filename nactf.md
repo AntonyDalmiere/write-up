@@ -29,3 +29,6 @@ Non when we try to login we arrive on the flag :
  2. Hash cookies payload before sending them.
  3. To prevent clientside editing of cookies, you can declare your cookies inacessible from javascript with the flag *HttpOnly* 
 
+### Credits
+
+[Antony Dalmiere](https://github.com/AntonyDalmiere)
